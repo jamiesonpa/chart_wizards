@@ -6,6 +6,8 @@ https://www.tutorialspoint.com/matplotlib/
 
 
 
+<img src="http://url/image.png](https://github.com/jamiesonpa/chart_wizards/blob/master/horizontal.png?raw=true" style=" width:60px ; height:60px ">
+
 
 We can make horizontal bar charts:
 <div style="width:60px ; height:60px">
