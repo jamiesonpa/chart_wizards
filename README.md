@@ -6,28 +6,20 @@ https://www.tutorialspoint.com/matplotlib/
 
 
 
-<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/horizontal.png" style=" width:360px ; height:180px ">
+
 
 
 We can make horizontal bar charts:
-<div style="width:60px ; height:60px">
-![Screenshot](https://github.com/jamiesonpa/chart_wizards/blob/master/horizontal.png?raw=true)
-<div>
+<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/horizontal.png" style=" width:360px ; height:180px ">
   
 We can make vertical bar charts:
 
-<div style="width:60px ; height:60px">
-![Screenshot](https://github.com/jamiesonpa/chart_wizards/blob/master/vertical.png?raw=true)
-<div>
+<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/vertical.png" style=" width:360px ; height:180px ">
 
 We can make grouped bar charts:
 
-<div style="width:60px ; height:60px">
-![Screenshot](https://github.com/jamiesonpa/chart_wizards/blob/master/grouped.png?raw=true)
-<div>
+<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/grouped.png" style=" width:360px ; height:180px ">
 
 We can make line charts:
 
-<div style="width:60px ; height:60px">
-![Screenshot](https://github.com/jamiesonpa/chart_wizards/blob/master/line.png?raw=true)
-<div>
+<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/line.png" style=" width:360px ; height:180px ">
