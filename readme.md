@@ -1,5 +1,11 @@
 This repo contains ipynbs that are preconfigured to make matplotlib charts easy.
 
+https://www.tutorialspoint.com/matplotlib/
+
+^ this website has tutorials on how to do any others that you need to do.
+
+
+
 
 We can make horizontal bar charts:
 
