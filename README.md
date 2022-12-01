@@ -6,7 +6,7 @@ https://www.tutorialspoint.com/matplotlib/
 
 
 
-<img src="[https://github.com/jamiesonpa/chart_wizards/blob/master/horizontal.png](https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/horizontal.png)" style=" width:120px ; height:60px ">
+<img src="https://raw.githubusercontent.com/jamiesonpa/chart_wizards/main/horizontal.png" style=" width:120px ; height:60px ">
 
 
 We can make horizontal bar charts:
